@@ -148,7 +148,7 @@ fun performOperation(
         }
         onResult(result.toString())
     } else {
-        onResult("Invalid Input")
+        onResult("Input Missing Operation")
     }
 
 }
